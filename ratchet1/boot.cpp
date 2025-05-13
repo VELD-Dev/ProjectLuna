@@ -11,10 +11,6 @@ int main(int argc, char* argv[])
     DBG("Current level: %d", current_level);
 
     // Startup
-    
-    // Init game graphics
-
-    // Check saves
 
     bool shouldClose = false;
 
