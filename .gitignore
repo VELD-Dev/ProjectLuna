@@ -33,6 +33,6 @@
 
 # Project files
 /.idea
-/x64
-/x32
+*/x64
+*/x32
 *.sln.DotSettings.user

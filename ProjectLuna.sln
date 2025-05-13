@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ratchet", "ratchet\ratchet.vcxproj", "{03F895E8-C141-46DC-8724-BE322A5D6937}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjectLuna", "ProjectLuna\ProjectLuna.vcxproj", "{03F895E8-C141-46DC-8724-BE322A5D6937}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ratchet1", "ratchet1\ratchet1.vcxproj", "{2CDF44E6-B584-4064-810A-E8EA8EDD19A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +20,13 @@ Global
 		{03F895E8-C141-46DC-8724-BE322A5D6937}.Release|Win32.Build.0 = Release|Win32
 		{03F895E8-C141-46DC-8724-BE322A5D6937}.Release|x64.ActiveCfg = Release|x64
 		{03F895E8-C141-46DC-8724-BE322A5D6937}.Release|x64.Build.0 = Release|x64
+		{2CDF44E6-B584-4064-810A-E8EA8EDD19A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CDF44E6-B584-4064-810A-E8EA8EDD19A3}.Debug|Win32.Build.0 = Debug|Win32
+		{2CDF44E6-B584-4064-810A-E8EA8EDD19A3}.Debug|x64.ActiveCfg = Debug|x64
+		{2CDF44E6-B584-4064-810A-E8EA8EDD19A3}.Debug|x64.Build.0 = Debug|x64
+		{2CDF44E6-B584-4064-810A-E8EA8EDD19A3}.Release|Win32.ActiveCfg = Release|Win32
+		{2CDF44E6-B584-4064-810A-E8EA8EDD19A3}.Release|Win32.Build.0 = Release|Win32
+		{2CDF44E6-B584-4064-810A-E8EA8EDD19A3}.Release|x64.ActiveCfg = Release|x64
+		{2CDF44E6-B584-4064-810A-E8EA8EDD19A3}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
