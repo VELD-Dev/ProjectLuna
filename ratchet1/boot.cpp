@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
     DBG("Loading Ratchet & Clank (2002)...\n");
     DBG("Current level: %d", current_level);
 
-    // Startup
+    start();
 
     bool shouldClose = false;
 
