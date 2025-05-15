@@ -36,3 +36,4 @@
 */x64
 */x32
 *.sln.DotSettings.user
+*.vcxproj.filters

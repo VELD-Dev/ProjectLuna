@@ -310,9 +310,9 @@
     <ClInclude Include="save_metadata.h" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ProjectLuna\ProjectLuna.vcxproj">
+    <ProjectReference Include="..\Pyrocitor\Pyrocitor.vcxproj">
       <Project>{03f895e8-c141-46dc-8724-be322a5d6937}</Project>
-      <Name>ProjectLuna</Name>
+      <Name>Pyrocitor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

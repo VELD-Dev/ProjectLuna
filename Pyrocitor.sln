@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjectLuna", "ProjectLuna\ProjectLuna.vcxproj", "{03F895E8-C141-46DC-8724-BE322A5D6937}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pyrocitor", "Pyrocitor\Pyrocitor.vcxproj", "{03F895E8-C141-46DC-8724-BE322A5D6937}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ratchet1", "ratchet1\ratchet1.vcxproj", "{2CDF44E6-B584-4064-810A-E8EA8EDD19A3}"
 EndProject
